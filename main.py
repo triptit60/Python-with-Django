@@ -1,3 +1,3 @@
 print("this is our git titorial")
-#Config 
-print("we Re learning")
+#Config add commit push
+print("we are learning")
